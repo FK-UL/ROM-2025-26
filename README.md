@@ -1,1 +1,1 @@
-Repozitorij za vaje pri predmetu Računalniška orodja v matematiki v šolskem letu 2025/26.
+Repozitorij za vaje pri predmetu Računalniška orodja v matematiki v študijskem letu 2025/26.
